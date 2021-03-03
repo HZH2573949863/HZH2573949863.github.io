@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to My Website!
 
-You can use the [editor on GitHub](https://github.com/HZH2573949863/HZH2573949863.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am Hu Zihao and it is my pleasure to meet you at this Github website page! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a ZJE student who has big dreams and work hard to achieve them!
 
-### Markdown
+## hiahiahia~
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
